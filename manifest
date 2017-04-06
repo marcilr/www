@@ -37,3 +37,6 @@ ssh://htpc/data/git/net/web/chrome/chrome   chrome
 
 # Linode
 ssh://htpc/data/git/net/web/linode          linode
+
+# Linode
+ssh://htpc/data/git/net/web/node.js         node.js
