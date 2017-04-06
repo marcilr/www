@@ -5,6 +5,17 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+amazon/
+  Amazon hosting
+
+chrome/
+  Chrome web browser
+
+linode/
+  Linode hosting
+
+manifest
+  Manifest for resync application
+
 web.txt
   Web
-
