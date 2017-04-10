@@ -35,6 +35,9 @@ ssh://htpc/data/git/net/web/amazon          amazon
 # Chrome
 ssh://htpc/data/git/net/web/chrome/chrome   chrome
 
+# Google
+ssh://htpc/data/git/net/web/google          google
+
 # Linode
 ssh://htpc/data/git/net/web/linode          linode
 
