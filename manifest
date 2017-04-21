@@ -41,5 +41,11 @@ ssh://htpc/data/git/net/web/google            google
 # Linode
 ssh://htpc/data/git/net/web/linode            linode
 
-# Linode
+
+# =====================================================================
+#
+# Google's node.js web applications
+#
+# =====================================================================
 ssh://htpc/data/git/net/web/node.js/node.js   node.js
+ssh://htpc/data/git/net/web/node.js/angular   node.js/angular
