@@ -30,16 +30,16 @@
 # =====================================================================
 
 # Amazon
-ssh://htpc/data/git/net/web/amazon          amazon
+ssh://htpc/data/git/net/web/amazon            amazon
 
 # Chrome
-ssh://htpc/data/git/net/web/chrome/chrome   chrome
+ssh://htpc/data/git/net/web/chrome/chrome     chrome
 
 # Google
-ssh://htpc/data/git/net/web/google          google
+ssh://htpc/data/git/net/web/google            google
 
 # Linode
-ssh://htpc/data/git/net/web/linode          linode
+ssh://htpc/data/git/net/web/linode            linode
 
 # Linode
-ssh://htpc/data/git/net/web/node.js         node.js
+ssh://htpc/data/git/net/web/node.js/node.js   node.js
