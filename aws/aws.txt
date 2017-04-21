@@ -1,0 +1,66 @@
+aws.txt
+Created Thu Mar 30 20:41:40 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Account Settings
+================
+Account Id:   139455104553
+Account Name: Raymond
+Password:     *****
+
+
+Contact Information
+===================
+Full Name:      Raymond Marcil
+Address:        706 East 73rd Avenue, Unit 1  
+City:           Anchorage
+State:          Alaska
+Postal Code:    99518
+Country:        US
+Phone Number:   907-351-7514
+Company Name:   <blank>
+Website URL:    <blank>
+
+
+
+Payment Currency Preference
+===========================
+When you set a Payment Currency you will be able to view your estimated bills and pay your
+AWS invoices in your preferred currency.
+
+Who should use this service: 
+Many customers pay foreign transaction fees when they use their credit cards for cross
+border transactions.  We've worked hard to provide competitive rates, but you should
+compare our rates with your credit card statements to determine if using our currency
+conversion service is right for you.
+
+Things you should know: 
+o Marketplace and DevPay invoices are not currently eligible for this service and will
+  be processed in USD
+o To use this service your default payment method must be a Visa or MasterCard.
+o Rates change daily.  The rate applied to your invoice will be the current rate at that
+  time your invoice is created. You can always check the current rate on the Billing
+  Console.
+o You always have the option to switch back to USD
+o Currency conversion is provided by Amazon Services LLC.
+
+To get started, please select your currency below.
+
+Selected Currency: USD - US Dollar 
+
+
+
+
+Links
+=====
+AWS Free Tier
+The AWS Free Tier enables you to gain free,
+hands-on experience with the AWS platform,
+products, and services.
+https://aws.amazon.com/free/?sc_ichannel=ha&amp;sc_ipage=signin&amp;sc_iplace=body_link_text&amp;sc_icampaigntype=free_tier&amp;sc_icampaign=ha_en_free_tier_signin_2014_03
+
+Getting Started with AWS
+Start building with Amazon Web Services
+https://aws.amazon.com/getting-started/?sc_channel=em&sc_campaign=wlcm&sc_publisher=aws&sc_medium=em_wlcm_1&sc_detail=wlcm_1b&sc_content=other&sc_country=global&sc_geo=global&sc_category=mult&ref_=pe_1679150_132208640
+
