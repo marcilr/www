@@ -29,8 +29,8 @@
 #
 # =====================================================================
 
-# Amazon
-ssh://htpc/data/git/net/web/amazon            amazon
+# AWS (Amazon Web Services)
+ssh://htpc/data/git/net/web/aws               aws
 
 # Chrome
 ssh://htpc/data/git/net/web/chrome/chrome     chrome
