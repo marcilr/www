@@ -1,0 +1,12 @@
+glossary.txt
+Created Thu Mar 30 21:04:31 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary
+
+
+IAM - AWS Identity and Access Management
+      --Your Security Credentials
+        https://console.aws.amazon.com/iam/home?#/security_credential
+
