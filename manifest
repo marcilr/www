@@ -45,6 +45,10 @@ ssh://htpc/data/git/net/web/google            google
 ssh://htpc/data/git/net/web/linode            linode
 
 
+# NGINX
+git@github.com:marcilr/nginx.git              nginx
+
+
 # =====================================================================
 #
 # Google's node.js web applications
