@@ -35,6 +35,9 @@ ssh://htpc/data/git/net/web/aws               aws
 # Chrome
 ssh://htpc/data/git/net/web/chrome/chrome     chrome
 
+# Domain
+ssh://htpc/data/git/net/web/domain            domain
+
 # Google
 ssh://htpc/data/git/net/web/google            google
 
