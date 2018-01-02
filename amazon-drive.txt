@@ -1,0 +1,69 @@
+amazon-drive.txt
+Created Tue Jan  2 09:54:01 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Amazon Drive
+
+
+Gmail drive 4GB of 15GB used is separate:
+  https://drive.google.com/drive/my-drive
+
+
+Tue Jan  2 09:54:06 AKST 2018
+=============================
+When accessing amazon drive online got popup:
+
+Your Amazon storage plan is changing
+Amazon no longer offers an unlimited storage plan. You can stay on your
+existing plan until the end of your subscription, or visit Manage Storage
+to see the new plan options. New annual storage plans start at 100 GB
+for $11.99, 1 TB for $59.99, and up to 30 TB for an additional $59.99
+per TB. Prime members’ unlimited photo storage benefit is not changing.
+
+Checking at:
+  https://www.amazon.com/clouddrive/managestoragev2?ref=cdw_tpc_w_ms&ie=UTF8&mgh=1
+
+Photos, videos and files
+  17.2 MB usedUnlimited
+  4 Photos17.2 MB   <=== Deleted 4 bad photos.
+  0 Videos0 B
+  0 Files0 B
+
+Unlimited Storage   $59.99 per year
+Your unlimited plan, ending on 1/21/18,
+is no longer offered.  After that, your account will be
+automatically renewed into the 1 TB plan for your existing
+rate of $59.99 per year.
+
+This is separate from gmail's 4GB of 15GB used.
+Do not think google drive at $59.99 for 1TB per year is worth it.
+
+click Do not renew
+
+Are you sure?
+-------------
+At the end of your plan, if you stored content is greater than your
+storage quota:
+o You won't be able to upload new files.  Prime members can continue
+  to upload photo files.
+o You can access and download your content for 180 days.
+o After 180 days, your content will be deleted according to our Data
+  Retention Policy. Learn more
+
+click Do not renew
+
+Unlimited Storage
+$59.99 per year
+Your unlimited plan, ending on 1/21/18, is no longer offered.
+After that, you’ll need to choose one of the new data storage
+plans to continue using the service.
+
+Unlimited Storage disabled - looks good.
+
+
+Links
+=====
+Visit Manage Storage
+https://www.amazon.com/clouddrive/managestoragev2?ref=cdw_tpc_w_ms&ie=UTF8&mgh=1
+
