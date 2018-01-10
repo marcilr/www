@@ -44,6 +44,9 @@ ssh://htpc/data/git/net/web/domain            domain
 # Google
 ssh://htpc/data/git/net/web/google   google
 
+# htdocs for home use
+ssh://htpc/data/git/net/web/htdocs   htdocs
+
 # Linode
 ssh://htpc/data/git/net/web/linode   linode
 
