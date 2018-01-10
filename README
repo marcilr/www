@@ -14,6 +14,9 @@ aws/
 chrome/
   Chrome web browser
 
+htdocs/
+  htdocs for home use
+
 linode/
   Linode hosting
 
