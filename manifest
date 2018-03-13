@@ -34,6 +34,7 @@ ssh://htpc/data/git/net/web/aws                  aws
 ssh://htpc/data/git/net/web/chrome/chrome        chrome
 ssh://htpc/data/git/net/web/domain               domain
 ssh://htpc/data/git/net/web/google               google
+ssh://git@github.com:marcilr/hosting             hosting
 ssh://htpc/data/git/net/web/linode               linode
 ssh://git@github.com:marcilr/microservices.git   microservices 
 ssh://git@github.com:marcilr/nginx.git           nginx
