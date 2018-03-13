@@ -30,7 +30,7 @@
 # =====================================================================
 
 # Apache
-ssh://htpc/data/git/net/web/apache            apache
+git@github.com:marcilr/apache   apache
 
 # AWS (Amazon Web Services)
 ssh://htpc/data/git/net/web/aws   aws
