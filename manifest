@@ -29,40 +29,13 @@
 #
 # =====================================================================
 
-# Apache
-git@github.com:marcilr/apache   apache
-
-# AWS (Amazon Web Services)
-ssh://htpc/data/git/net/web/aws   aws
-
-# Chrome
-ssh://htpc/data/git/net/web/chrome/chrome   chrome
-
-# Domain
-ssh://htpc/data/git/net/web/domain            domain
-
-# Google
-ssh://htpc/data/git/net/web/google   google
-
-# htdocs for home use
-ssh://htpc/data/git/net/web/htdocs   htdocs
-
-# Linode
-ssh://htpc/data/git/net/web/linode   linode
-
-# Microservices
-git@github.com:marcilr/microservices.git   microservices 
-
-# NGINX
-git@github.com:marcilr/nginx.git   nginx
-
-
-# =====================================================================
-#
-# Google's node.js web applications
-#
-# =====================================================================
-ssh://htpc/data/git/net/web/node.js/node.js   node.js
-
-# Angular - https://angular.io/
-ssh://htpc/data/git/net/web/node.js/angular   node.js/angular
+ssh://git@github.com:marcilr/apache              apache
+ssh://htpc/data/git/net/web/aws                  aws
+ssh://htpc/data/git/net/web/chrome/chrome        chrome
+ssh://htpc/data/git/net/web/domain               domain
+ssh://htpc/data/git/net/web/google               google
+ssh://htpc/data/git/net/web/linode               linode
+ssh://git@github.com:marcilr/microservices.git   microservices 
+ssh://git@github.com:marcilr/nginx.git           nginx
+ssh://htpc/data/git/net/web/node.js/node.js      node.js
+ssh://htpc/data/git/net/web/node.js/angular      node.js/angular
