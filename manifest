@@ -36,7 +36,9 @@ ssh://htpc/data/git/net/web/domain               domain
 ssh://htpc/data/git/net/web/google               google
 
 # Unable to checkout hosting by ssh, peculiar
-git@github.com:marcilr/hosting.git         hosting
+ssh://git@github.com:marcilr/hosting.git         hosting
+
+git@github.com:marcilr/javascript.git            javascript
 
 ssh://htpc/data/git/net/web/linode               linode
 ssh://git@github.com:marcilr/microservices.git   microservices 
