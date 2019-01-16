@@ -28,10 +28,9 @@
 # Web
 #
 # =====================================================================
-
-ssh://git@github.com:marcilr/apache              apache
+ssh://git@github.com/marcilr/apache              apache
 ssh://htpc/data/git/net/web/aws                  aws
-ssh://htpc/data/git/net/web/chrome/chrome        chrome
+ssh://git@github.com/marcilr/chrome.git          chrome
 ssh://htpc/data/git/net/web/domain               domain
 ssh://htpc/data/git/net/web/google               google
 
