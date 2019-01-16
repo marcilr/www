@@ -1,0 +1,15 @@
+#.gitignore
+# Created Wed Jan 16 09:33:39 AKST 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+apache/
+chrome/
+hosting/
+javascript/
+microservices/
+rockhounding.net/
+ssl/
+
