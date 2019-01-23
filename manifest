@@ -41,7 +41,7 @@ git@github.com:marcilr/javascript.git            javascript
 
 ssh://htpc/data/git/net/web/linode               linode
 ssh://git@github.com/marcilr/microservices.git   microservices
-ssh://git@github.com:marcilr/nginx.git           nginx
+ssh://git@github.com/marcilr/nginx.git           nginx
 ssh://htpc/data/git/net/web/node.js/node.js      node.js
 ssh://htpc/data/git/net/web/node.js/angular      node.js/angular
 
