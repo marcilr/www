@@ -11,3 +11,39 @@ Links
 I Don't Need No Stinking API: Web Scraping For Fun and Profit
 February 3, 2017 by Hartley Brody
 https://blog.hartleybrody.com/web-scraping/
+
+HTML parsing
+Most of the code I write is in Python, and I love BeautifulSoup
+for its error handling and super-simple API. I also love its motto:
+  You didn’t write that awful page.  You’re just trying to get some
+  data out of it. Beautiful Soup is here to help. :)
+Using the built-in Unix screen command allows you to disconnect
+from your crawling process without worrying that it’ll go away.
+You can close your laptop and simple SSH back in later, reconnect
+to the screen, and you’ll see your crawling process still humming
+along.
+https://blog.hartleybrody.com/web-scraping/
+http://www.crummy.com/software/BeautifulSoup/
+
+How to Scrape Amazon.com: 19 Lessons I Learned While Crawling 1MM+ Product Listings
+August 3, 2016 by Hartley Brody
+https://blog.hartleybrody.com/scrape-amazon/
+
+Requests: HTTP for Humans
+Release v2.21.0. (Installation)
+http://docs.python-requests.org/en/latest/
+
+The Ultimate Guide to Web Scraping
+Learn how to avoid the most common pitfalls and collect the data you need.
+The book is designed to walk you from beginner to expert,
+honing your skills and helping you become a master craftsman
+in the art of web scraping.
+https://blog.hartleybrody.com/guide-to-web-scraping/
+
+Web Scraping ebook
+https://blog.hartleybrody.com/guide-to-web-scraping/
+
+Web Scraping Reference: A Simple Cheat Sheet for Web Scraping with Python
+October 24, 2018 by Hartley Brody
+https://blog.hartleybrody.com/web-scraping-cheat-sheet/
+
