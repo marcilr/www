@@ -1,0 +1,13 @@
+links.txt
+Created Tue Mar  5 09:00:58 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Web related links
+
+
+Links
+=====
+I Don't Need No Stinking API: Web Scraping For Fun and Profit
+February 3, 2017 by Hartley Brody
+https://blog.hartleybrody.com/web-scraping/
