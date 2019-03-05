@@ -12,6 +12,13 @@ I Don't Need No Stinking API: Web Scraping For Fun and Profit
 February 3, 2017 by Hartley Brody
 https://blog.hartleybrody.com/web-scraping/
 
+How My Finished, Final Code Works
+TL;DR: Here’s a link to my code on github.
+It has a readme for getting you setup and
+started on your own amazon.com crawler.
+https://blog.hartleybrody.com/scrape-amazon/
+https://github.com/hartleybrody/public-amazon-crawler
+
 HTML parsing
 Most of the code I write is in Python, and I love BeautifulSoup
 for its error handling and super-simple API. I also love its motto:
