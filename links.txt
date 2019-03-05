@@ -8,6 +8,12 @@ Web related links
 
 Links
 =====
+Controlling the Web with Python
+Go to the profile of Will Koehrsen
+Will Koehrsen, Mar 10, 2018
+References use of selenium
+https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
+
 I Don't Need No Stinking API: Web Scraping For Fun and Profit
 February 3, 2017 by Hartley Brody
 https://blog.hartleybrody.com/web-scraping/
@@ -40,6 +46,13 @@ Requests: HTTP for Humans
 Release v2.21.0. (Installation)
 http://docs.python-requests.org/en/latest/
 
+Selenium with Python¶
+Author:	Baiju Muthukadan
+"Selenium a tool which can be used with Python
+to navigate the web for you."
+https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
+https://selenium-python.readthedocs.io/
+
 The Ultimate Guide to Web Scraping
 Learn how to avoid the most common pitfalls and collect the data you need.
 The book is designed to walk you from beginner to expert,
@@ -54,3 +67,8 @@ Web Scraping Reference: A Simple Cheat Sheet for Web Scraping with Python
 October 24, 2018 by Hartley Brody
 https://blog.hartleybrody.com/web-scraping-cheat-sheet/
 
+WebDriver is a remote control interface that enables introspection
+and control of user agents.  It provides a platform- and
+language-neutral wire protocol as a way for out-of-process programs
+to remotely instruct the behavior of web browsers. 
+https://www.w3.org/TR/webdriver/
