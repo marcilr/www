@@ -25,7 +25,7 @@
 
 # =====================================================================
 #
-# Web
+# WWW
 #
 # =====================================================================
 ssh://git@github.com/marcilr/apache              apache
@@ -44,7 +44,5 @@ ssh://git@github.com/marcilr/microservices.git   microservices
 ssh://git@github.com/marcilr/nginx.git           nginx
 ssh://htpc/data/git/net/web/node.js/node.js      node.js
 ssh://htpc/data/git/net/web/node.js/angular      node.js/angular
-
-# Unable to checkout rockhounding.net or ssl by ssh, peculiar
 git@github.com:marcilr/rockhounding.net.git      rockhounding.net
 git@github.com:marcilr/ssl.git                   ssl
