@@ -39,7 +39,7 @@ ssh://git@github.com/marcilr/hosting.git         hosting
 
 git@github.com:marcilr/javascript.git            javascript
 
-git@github.com:marcilr/linode                    linode
+ssh://git@github.com/marcil /                    linode
 #ssh://htpc/data/git/net/web/linode               linode
 ssh://git@github.com/marcilr/microservices.git   microservices
 ssh://git@github.com/marcilr/nginx.git           nginx
