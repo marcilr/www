@@ -11,6 +11,9 @@ amazon/
 amazon-drive.txt
   Amazon Drive
 
+apache2/
+  apache2 - Apache HTTP Server
+
 aws/
   Amazon Web Services
 
