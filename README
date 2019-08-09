@@ -20,6 +20,9 @@ aws/
 chrome/
   Chrome web browser
 
+docs/
+  Documentation
+
 htdocs/
   htdocs for home use
 
