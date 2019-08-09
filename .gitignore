@@ -6,7 +6,9 @@
 #
 .gitignore
 apache/
+apache2/
 chrome/
+cms/
 hosting/
 javascript/
 linode/
