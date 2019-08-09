@@ -1,0 +1,22 @@
+perforce.txt
+Created Fri Aug  9 07:07:15 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Perforce
+
+
+href tage:
+  perc-linkid="1401550"
+  perc-managed="true"
+
+  Under SOA OIT DNR commis/pic/about.htm
+
+  Determined these are Perforce metadata tags 
+  for site management and such.
+
+
+Links
+=====
+Perforce
+https://www.perforce.com/
