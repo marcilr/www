@@ -1,6 +1,6 @@
 # manifest
 # Created Wed Apr  5 15:53:42 AKDT 2017
-# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+# Copyright (C) 2017-2019 by Raymond E. Marcil <marcilr@gmail.com>
 #
 # Manifest for resync application
 #
@@ -16,7 +16,6 @@
 # =====================================================================
 # =====================================================================
 #
-# Private htpc repositories
 # Public GitHub repositories
 #
 # =====================================================================
@@ -28,24 +27,24 @@
 # WWW
 #
 # =====================================================================
-ssh://git@github.com/marcilr/apache2             apache2
+#ssh://git@github.com/marcilr/apache2             apache2
 #ssh://htpc/data/git/net/web/aws                  aws
-ssh://git@github.com/marcilr/chrome.git          chrome
-ssh://git@github.com/marcilr/cms.git             cms
+#ssh://git@github.com/marcilr/chrome.git          chrome
+#ssh://git@github.com/marcilr/cms.git             cms
 #ssh://htpc/data/git/net/web/domain               domain
 #ssh://htpc/data/git/net/web/google               google
 
 # Unable to checkout hosting by ssh, peculiar
-ssh://git@github.com/marcilr/hosting.git         hosting
+#ssh://git@github.com/marcilr/hosting.git         hosting
 
-git@github.com:marcilr/javascript.git            javascript
+#git@github.com:marcilr/javascript.git            javascript
 
-ssh://git@github.com/marcilr/linode              linode
+#ssh://git@github.com/marcilr/linode              linode
 #ssh://htpc/data/git/net/web/linode               linode
-ssh://git@github.com/marcilr/microservices.git   microservices
-ssh://git@github.com/marcilr/nginx.git           nginx
+#ssh://git@github.com/marcilr/microservices.git   microservices
+#ssh://git@github.com/marcilr/nginx.git           nginx
 #ssh://htpc/data/git/net/web/node.js/node.js      node.js
 #ssh://htpc/data/git/net/web/node.js/angular      node.js/angular
-git@github.com:marcilr/rockhounding.net.git      rockhounding.net
-git@github.com:marcilr/selenium.git              selenium
-git@github.com:marcilr/ssl.git                   ssl
+#git@github.com:marcilr/rockhounding.net.git      rockhounding.net
+#git@github.com:marcilr/selenium.git              selenium
+#git@github.com:marcilr/ssl.git                   ssl
