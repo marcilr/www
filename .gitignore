@@ -5,6 +5,7 @@
 # Files for git to ignore.
 #
 .gitignore
+00ARCHIVES/
 apache/
 apache2/
 chrome/
