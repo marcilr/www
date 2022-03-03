@@ -29,6 +29,9 @@ docs/
 htdocs/
   htdocs for home use
 
+index.html
+  Base page for www/ git repository
+
 links.txt
   Web related links
 
