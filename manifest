@@ -31,7 +31,7 @@
 
 ssh://git@github.com/marcilr/apache2             apache2
 #ssh://htpc/data/git/net/web/aws                  aws
-#ssh://git@github.com/marcilr/chrome.git          chrome
+ssh://git@github.com/marcilr/chrome.git          chrome
 #ssh://git@github.com/marcilr/cms.git             cms
 
 ssh://git@github.com/marcilr/css.git              css
